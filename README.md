@@ -3,7 +3,10 @@ GB verion of CatMario. It's a demo version currently.
 
 Made with [GB Studio](https://github.com/chrismaltby/gb-studio).
 
-Play online: http://blog.zhangkexuan.cn/GameSrc/CatMarioGB/
+Play online: 
+https://lazy-v.itch.io/catmario-gb
+or
+http://blog.zhangkexuan.cn/GameSrc/CatMarioGB/
 
 ## Screenshots
 
